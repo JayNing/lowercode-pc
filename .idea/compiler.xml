@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="layout-service-api" />
+        <module name="eureka-server" />
+        <module name="eureka-server-replica" />
+        <module name="object-service" />
+        <module name="layout-service" />
+        <module name="button-service" />
+        <module name="lowercode-portal" />
+        <module name="object-service-api" />
+        <module name="button-service-api" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="button-service" target="8" />
+      <module name="button-service-api" target="8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="eureka-server-replica" target="1.8" />
+      <module name="layout-service" target="8" />
+      <module name="layout-service-api" target="1.8" />
+      <module name="lowercode-pc" target="1.8" />
+      <module name="lowercode-portal" target="8" />
+      <module name="lowercode-services" target="8" />
+      <module name="lowercode-services-api" target="8" />
+      <module name="metadata-service" target="8" />
+      <module name="object-service" target="8" />
+      <module name="object-service-api" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="button-service" options="-parameters" />
+      <module name="button-service-api" options="-parameters" />
+      <module name="eureka-server" options="-parameters" />
+      <module name="eureka-server-replica" options="-parameters" />
+      <module name="layout-service" options="-parameters" />
+      <module name="layout-service-api" options="-parameters" />
+      <module name="lowercode-portal" options="-parameters" />
+      <module name="lowercode-services" options="-parameters" />
+      <module name="lowercode-services-api" options="-parameters" />
+      <module name="metadata-service" options="-parameters" />
+      <module name="object-service" options="-parameters" />
+      <module name="object-service-api" options="-parameters" />
+    </option>
+  </component>
+</project>

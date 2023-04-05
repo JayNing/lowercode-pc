@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/eureka-server-replica/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lowercode-portal/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lowercode-services-api/button-service-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lowercode-services-api/layout-service-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lowercode-services-api/object-service-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lowercode-services/button-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lowercode-services/layout-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lowercode-services/object-service/src/main/java" charset="UTF-8" />
+  </component>
+</project>

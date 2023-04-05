@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lowercode-services/button-service/button-service.iml" filepath="$PROJECT_DIR$/lowercode-services/button-service/button-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lowercode-services-api/button-service-api/button-service-api.iml" filepath="$PROJECT_DIR$/lowercode-services-api/button-service-api/button-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server-replica/eureka-server-replica.iml" filepath="$PROJECT_DIR$/eureka-server-replica/eureka-server-replica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lowercode-services/layout-service/layout-service.iml" filepath="$PROJECT_DIR$/lowercode-services/layout-service/layout-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lowercode-services-api/layout-service-api/layout-service-api.iml" filepath="$PROJECT_DIR$/lowercode-services-api/layout-service-api/layout-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lowercode-pc.iml" filepath="$PROJECT_DIR$/lowercode-pc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lowercode-portal/lowercode-portal.iml" filepath="$PROJECT_DIR$/lowercode-portal/lowercode-portal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lowercode-services/lowercode-services.iml" filepath="$PROJECT_DIR$/lowercode-services/lowercode-services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lowercode-services-api/lowercode-services-api.iml" filepath="$PROJECT_DIR$/lowercode-services-api/lowercode-services-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lowercode-services/metadata-service.iml" filepath="$PROJECT_DIR$/lowercode-services/metadata-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lowercode-services/object-service/object-service.iml" filepath="$PROJECT_DIR$/lowercode-services/object-service/object-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lowercode-services-api/object-service-api/object-service-api.iml" filepath="$PROJECT_DIR$/lowercode-services-api/object-service-api/object-service-api.iml" />
+    </modules>
+  </component>
+</project>
