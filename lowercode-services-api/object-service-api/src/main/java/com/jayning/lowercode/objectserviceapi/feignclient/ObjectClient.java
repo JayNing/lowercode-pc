@@ -11,4 +11,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 public interface ObjectClient {
     @GetMapping("getObject")
     String getObject();
+
+    @GetMapping("object")
+    String object();
 }

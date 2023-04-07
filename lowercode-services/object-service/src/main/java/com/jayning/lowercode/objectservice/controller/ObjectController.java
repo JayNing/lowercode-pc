@@ -16,4 +16,15 @@ public class ObjectController implements ObjectClient {
     public String getObject(){
         return "object_123";
     }
+
+    @GetMapping("/object")
+    @Override
+    public String object() {
+        try {
+            Thread.sleep(3000L);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+        return "Get object success!";
+    }
 }
