@@ -15,6 +15,7 @@
         <option value="$PROJECT_DIR$/lowercode-services-api/object-service-api/pom.xml" />
         <option value="$PROJECT_DIR$/lowercode-services-api/button-service-api/pom.xml" />
         <option value="$PROJECT_DIR$/lowercode-services-api/layout-service-api/pom.xml" />
+        <option value="$PROJECT_DIR$/lowercode-gateway/pom.xml" />
       </list>
     </option>
   </component>

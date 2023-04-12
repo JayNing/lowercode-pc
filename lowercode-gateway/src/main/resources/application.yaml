@@ -1,0 +1,15 @@
+server:
+  port: 9096
+spring:
+  application:
+    name: lowercode-gateway
+  cloud:
+    gateway:
+      routes:
+        - id: baidu-route
+          uri: https://www.baidu.com
+          predicates:
+#            - Method=GET
+            - Path=/api
+          filters:
+            - StripPrefix=1

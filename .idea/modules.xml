@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/eureka-server-replica/eureka-server-replica.iml" filepath="$PROJECT_DIR$/eureka-server-replica/eureka-server-replica.iml" />
       <module fileurl="file://$PROJECT_DIR$/lowercode-services/layout-service/layout-service.iml" filepath="$PROJECT_DIR$/lowercode-services/layout-service/layout-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/lowercode-services-api/layout-service-api/layout-service-api.iml" filepath="$PROJECT_DIR$/lowercode-services-api/layout-service-api/layout-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lowercode-gateway/lowercode-gateway.iml" filepath="$PROJECT_DIR$/lowercode-gateway/lowercode-gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/lowercode-pc.iml" filepath="$PROJECT_DIR$/lowercode-pc.iml" />
       <module fileurl="file://$PROJECT_DIR$/lowercode-portal/lowercode-portal.iml" filepath="$PROJECT_DIR$/lowercode-portal/lowercode-portal.iml" />
       <module fileurl="file://$PROJECT_DIR$/lowercode-services/lowercode-services.iml" filepath="$PROJECT_DIR$/lowercode-services/lowercode-services.iml" />

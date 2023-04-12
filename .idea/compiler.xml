@@ -11,6 +11,7 @@
         <module name="eureka-server" />
         <module name="eureka-server-replica" />
         <module name="object-service" />
+        <module name="lowercode-gateway" />
         <module name="layout-service" />
         <module name="button-service" />
         <module name="lowercode-portal" />
@@ -25,6 +26,7 @@
       <module name="eureka-server-replica" target="1.8" />
       <module name="layout-service" target="8" />
       <module name="layout-service-api" target="1.8" />
+      <module name="lowercode-gateway" target="8" />
       <module name="lowercode-pc" target="1.8" />
       <module name="lowercode-portal" target="8" />
       <module name="lowercode-services" target="8" />
@@ -42,6 +44,7 @@
       <module name="eureka-server-replica" options="-parameters" />
       <module name="layout-service" options="-parameters" />
       <module name="layout-service-api" options="-parameters" />
+      <module name="lowercode-gateway" options="-parameters" />
       <module name="lowercode-portal" options="-parameters" />
       <module name="lowercode-services" options="-parameters" />
       <module name="lowercode-services-api" options="-parameters" />
